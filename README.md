@@ -15,6 +15,5 @@ The final answer is output and stored as a list. This list can be accessed by go
 
 ## Screenshots
 
-![image](https://user-images.githubusercontent.com/29494694/206352141-a4c34565-e4cb-41a7-8521-3fe99c3d40bf.png)
-![image](https://user-images.githubusercontent.com/29494694/206352155-a838ce35-a9cc-4785-816e-8184bd419de2.png)
-
+![image](https://user-images.githubusercontent.com/29494694/206353044-66367473-5ac2-4c0c-b80d-343e6ab915f9.png)
+![image](https://user-images.githubusercontent.com/29494694/206353060-c4ea90ab-7aed-4157-b67e-cfb971542d68.png)
